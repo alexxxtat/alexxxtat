@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>🌱 I’m currently learning more about web and software development<br>😄 I’m looking for exploring new technologies.<br>
 4+ years of programming experience. Graduated recently from SFU with the newest skillset/ knowledge in MERN stack, database system (SQL), data structure and algorithm<br>
+🔭 I’m currently working on my skills.<br>🌱 I’m currently learning more about web and software development<br>😄 I’m looking for exploring new technologies.<br>
+💪 I’m currently looking for a job opportunity to applied and enhance my skills and knowledge
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/alexchou0605/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexxtat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/alex-chou-427b6322a) 
