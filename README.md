@@ -1,5 +1,5 @@
 # 💫 About Me:
-4+ years of programming experience. Graduated recently from SFU with the newest skillset/ knowledge in MERN stack, database system (SQL), data structure and algorithm<br>
+I possess 2+ years of programming experience and recently graduated from SFU with a focus on developing new skills and knowledge in the MERN stack and data analytics.<br>
 🔭 I’m currently working on my skills.<br>🌱 I’m currently learning more about web and software development<br>😄 I’m looking for exploring new technologies.<br>
 💪 I’m currently looking for a job opportunity to applied and enhance my skills and knowledge
 
